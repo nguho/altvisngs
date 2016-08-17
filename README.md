@@ -40,10 +40,10 @@ The program is indended to permit the evaluation of mulitple primer sets. Each p
 ` |  |--table.taxa_info.txt`<br>
 ` |`<br>
 ` |--PAO`<br>
-` ` ` ` `|--_key.csv`<br>
-`    |--table.abundance.txt`<br>
-`    |--table.proportions.txt`<br>
-`    |--table.taxa_info.txt`<br>
+` |  |--_key.csv`<br>
+` |  |--table.abundance.txt`<br>
+` |  |--table.proportions.txt`<br>
+` |  |--table.taxa_info.txt`<br>
 
 where `EUB` and `PAO` are the names of the primer sets.
 
